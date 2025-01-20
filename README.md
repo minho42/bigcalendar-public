@@ -3,10 +3,6 @@
 Big Calendar is an iOS calendar app that designed to deliver better user experience for viewing calendar events.
 Currently, this is the bare minimum MVP version of the app, with plans for further enhancements as the concept is validated and user demand grows.
 
-<a href="https://apps.apple.com/au/app/roster/id6504712129">
-    <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
-</a>
-
 ## Features
 
 - layout: adjust the monthly calendar view with the flexibility to show varying number of weeks
