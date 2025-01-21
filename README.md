@@ -11,7 +11,10 @@ Currently, this is the bare minimum MVP version of the app, with plans for furth
 
 ## Screenshots
 
-coming soon...
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="images/screenshot1.png" alt="list" style="width:45%; max-width:340px;">
+  <img src="images/screenshot2.png" alt="wiki" style="width:45%; max-width:340px;">
+</div>
 
 ## Privacy Policy
 
