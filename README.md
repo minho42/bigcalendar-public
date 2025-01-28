@@ -33,4 +33,4 @@ Email the developer at gimbapapps@gmail.com for any inquiries or to share your f
 - Share your feedback by emailing the developer
 - Give 5 stars on the App Store
 - Buy me a digital coffee [[buy](https://buymeacoffee.com/minhokim)]
-- Tip the developer: [[tip](https://buy.stripe.com/9AQg1ph2x6CJ2be9AA)]
+- Tip the developer [[tip](https://buy.stripe.com/9AQg1ph2x6CJ2be9AA)]
