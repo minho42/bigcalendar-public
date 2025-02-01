@@ -1,4 +1,4 @@
-# big Cal: Calendar Viewer
+# Big Calendar - Easy Viewer
 
 ## Privacy Policy
 
