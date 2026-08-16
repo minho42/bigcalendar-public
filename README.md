@@ -2,6 +2,8 @@
 
 A big, easy-to-see calendar for iPhone.
 
+<img src="screenshots/screenshot.png" alt="Big Calendar screenshot" width="300" />
+
 Big Calendar shows the calendars already on your device — iCloud, Google, and
 anything else synced through iOS — in a large, high-contrast layout that's easy
 to read at a glance.
