@@ -37,6 +37,23 @@ Then open Big Calendar — your events appear. If the grid is empty, no account 
 
 **For timely updates:** Google calendars only refresh on a schedule, so if new events are slow to show, set **Settings -> Apps -> Calendar -> Calendar Accounts -> Fetch New Data -> Every 15 Minutes**.
 
+## Screenshot Comparison 
+
+<div style="display: flex; gap: 24px; text-align: center;">
+  <div style="width: 32%;">
+    <img src="screenshots/comp-acal.png" width="100%">
+    Apple Calendar
+  </div>
+  <div style="width: 32%;">
+    <img src="screenshots/comp-gcal.png" width="100%">
+    Google Calendar
+  </div>
+  <div style="width: 32%;">
+    <img src="screenshots/comp-bigcal.png" width="100%">
+    Big Calendar
+  </div>
+</div>
+
 ## Privacy
 
 Big Calendar does not collect, store, or share any of your information. Your
@@ -47,5 +64,5 @@ See the [Privacy Policy](privacy-policy.md) for details.
 
 ## Support
 
-Email **minho42+bigcalendar+support@gmail.com**
+Email: minho42+bigcalendar+support@gmail.com
 
