@@ -39,13 +39,9 @@ Then open Big Calendar — your events appear. If the grid is empty, no account 
 
 ## Screenshot Comparison
 
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="screenshots/comp-acal.png" width="100%"><br>Apple Calendar</td>
-    <td align="center" width="33%"><img src="screenshots/comp-gcal.png" width="100%"><br>Google Calendar</td>
-    <td align="center" width="33%"><img src="screenshots/comp-bigcal.png" width="100%"><br>Big Calendar</td>
-  </tr>
-</table>
+<img src="screenshots/comp-acal.png" width="32%"> <img src="screenshots/comp-gcal.png" width="32%"> <img src="screenshots/comp-bigcal.png" width="32%">
+
+Apple Calendar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Calendar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Big Calendar
 
 ## Privacy
 
