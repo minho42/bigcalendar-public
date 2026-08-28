@@ -20,6 +20,13 @@ to read at a glance.
 - **Australian holidays by state** — if you subscribe to the Australian Holidays
   calendar, show only the states you care about.
 
+## How events are ordered
+
+Multi-day events always come first — they're drawn as bars at the top of each day.
+Your calendar order from **Settings → calendars** then applies to the remaining
+single-day events. So the calendar order isn't followed 100%: multi-day events take
+priority over it.
+
 ## Pro
 
 Big Calendar is free to use with a 1–2 week view. A single one-time purchase
