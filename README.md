@@ -27,6 +27,11 @@ Your calendar order from **Settings → calendars** then applies to the remainin
 single-day events. So the calendar order isn't followed 100%: multi-day events take
 priority over it.
 
+## Reminders
+
+Reminders (from the iOS Reminders app) are not shown — Big Calendar displays
+calendar events only.
+
 ## Pro
 
 Big Calendar is free to use with a 1–2 week view. A single one-time purchase
