@@ -29,7 +29,7 @@ Your calendar order from **Settings → calendars** then applies to the remainin
 single-day events. So the calendar order isn't followed 100%: multi-day events take
 priority over it.
 
-## Event titles
+## How event titles fit
 
 How much of a long event title is shown depends on how many weeks you're viewing,
 so more weeks still stay readable:
