@@ -29,6 +29,19 @@ Your calendar order from **Settings → calendars** then applies to the remainin
 single-day events. So the calendar order isn't followed 100%: multi-day events take
 priority over it.
 
+## Event titles
+
+How much of a long event title is shown depends on how many weeks you're viewing,
+so more weeks still stay readable:
+
+- **1–2 weeks:** titles wrap fully — no line limit.
+- **3–4 weeks:** tighter tiles — the top week shows up to 2 lines, every week
+  below shows 1 line.
+
+When a title doesn't fit, it's clipped at the edge of the tile (no trailing "…"),
+matching Apple and Google Calendar. This layout is a design choice and may change.
+(In code it's controlled by `getLineLimit(weekRow:)` in `ViewModel.swift`.)
+
 ## Reminders
 
 Reminders (from the iOS Reminders app) are not shown — Big Calendar displays
