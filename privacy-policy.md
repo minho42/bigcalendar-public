@@ -27,4 +27,4 @@ Store. We do not receive or store any payment information.
 
 ## Contact
 
-Email: minho42+bigcalendar+support@gmail.com
+Email: minho42+bigcalendar@gmail.com

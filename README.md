@@ -80,5 +80,5 @@ See the [Privacy Policy](privacy-policy.md) for details.
 
 ## Support
 
-Email: minho42+bigcalendar+support@gmail.com
+Email: minho42+bigcalendar@gmail.com
 
