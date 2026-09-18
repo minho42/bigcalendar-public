@@ -16,7 +16,8 @@ to read at a glance.
 - **Choose how many weeks to see** — view 1–2 weeks for free, or up to 4 weeks
   with a one-time Pro upgrade.
 - **Word replacements** — shorten long words in event titles (e.g. `birthday ->
-  bday`, `movie -> 🍿`) so more fits on screen.
+  bday`, `movie -> 🍿`, `minho kim -> mk`) so more fits on screen. Handy in
+  the 3–4 week view, where long titles get cut off to keep things readable.
 - **Pick which calendars show** — turn calendars on/off and reorder them so the
   ones you care about appear first each day.
 - **Australian holidays by state** — if you subscribe to the Australian Holidays
@@ -28,19 +29,6 @@ Multi-day events always come first — they're drawn as bars at the top of each 
 Your calendar order from **Settings → calendars** then applies to the remaining
 single-day events. So the calendar order isn't followed 100%: multi-day events take
 priority over it.
-
-## How event titles fit
-
-How much of a long event title is shown depends on how many weeks you're viewing,
-so more weeks still stay readable:
-
-- **1–2 weeks:** titles wrap fully — no line limit.
-- **3–4 weeks:** tighter tiles — the top week shows up to 2 lines, every week
-  below shows 1 line.
-
-When a title doesn't fit, it's clipped at the edge of the tile (no trailing "…"),
-matching Apple and Google Calendar. This layout is a design choice and may change.
-(In code it's controlled by `getLineLimit(weekRow:)` in `ViewModel.swift`.)
 
 ## Reminders
 
@@ -69,6 +57,23 @@ Then open Big Calendar — your events appear. If the grid is empty, no account 
 | Apple Calendar | Google Calendar | Big Calendar |
 | :------------: | :-------------: | :----------: |
 | <img src="screenshots/comp-acal.png" width="260"> | <img src="screenshots/comp-gcal.png" width="260"> | <img src="screenshots/comp-bigcal.png" width="260"> |
+
+## Why I built this
+
+I've been using Google Calendar for over 10 years, but since turning 40 I've
+found the fonts too small.
+
+So I built an opinionated iOS calendar app, Big Calendar, that suits my needs:
+big fonts, readable (multi-line) events, a wide column for today, etc. Basically
+it's for people who don't use timed events much.
+
+Now I use it every day, and it has pretty much replaced Google Calendar for me.
+
+- Not open source
+- Built with Claude (Max plan 5x) in VS Code/Xcode
+
+If you find your calendar too small to read, maybe give it a try. Any feedback
+is appreciated.
 
 ## Privacy
 
