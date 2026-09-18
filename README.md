@@ -60,17 +60,14 @@ Then open Big Calendar — your events appear. If the grid is empty, no account 
 
 ## Why I built this
 
-I've been using Google Calendar for over 10 years, but since turning 40 I've
-found the fonts too small.
+I've been using Google Calendar for over 10 years, but lately the fonts
+have started to feel too small.
 
 So I built an opinionated iOS calendar app, Big Calendar, that suits my needs:
 big fonts, readable (multi-line) events, a wide column for today, etc. Basically
 it's for people who don't use timed events much.
 
 Now I use it every day, and it has pretty much replaced Google Calendar for me.
-
-- Not open source
-- Built with Claude (Max plan 5x) in VS Code/Xcode
 
 If you find your calendar too small to read, maybe give it a try. Any feedback
 is appreciated.
